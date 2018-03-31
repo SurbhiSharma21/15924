@@ -1,0 +1,187 @@
+body{
+background-color: white;
+height: 100%;
+
+
+}
+
+ 
+#wrapper{
+    
+    width: 99%;
+    height: 100%;
+    background-color: transparent;
+    margin-left: auto;
+    margin-right: auto;
+}
+#sdebar{
+    float: left;
+}
+#header{
+
+    padding: 10px;
+    background-color: #8080FF;
+    width: 90%;
+    height: 150px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    font-size: 25px;
+    color: white;
+    border-radius: 5px;
+}
+#menu{
+
+     background-color: #8080FF;
+    width: 91%;
+    height: 45px;
+   margin-left: auto;
+   margin-right: auto;
+    margin-top: 5px;
+    font-size: 20px;
+    text-align: center;
+    opacity: 0.6;
+    border-radius: 5px;
+    
+}
+#menu a{
+    text-decoration: none;
+    color: white;
+
+}
+#m1{
+    margin-bottom: 5px;
+   
+}
+
+
+
+#main{
+    padding: 5px;
+    margin-top: 10px;
+    background-color: #8080FF;
+    width: 90%;
+  
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+
+
+#content{
+     background-color: white;
+    width: 99%;
+   
+    margin-left: 3px;
+    margin-right: 3px;
+    margin-top: 0px;
+    float: right;
+    color: maroon;
+    
+}
+#fm{
+    
+    width: 96.5%;
+    
+}
+
+.bodylink {
+    margin-top: 20px;
+    margin-left: 10px;
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    color: #8a1c1c;
+    text-align: left;
+    font-weight: bold;
+}
+#footer{
+    
+    background-color:  #8080FF;
+    width: 90%;
+    height: 40px;
+    margin-left: auto;
+    margin-right: auto;
+    
+    color: white;
+    text-align: right;
+    padding: 5px;
+    
+    
+}
+input[type=text], input[type=file],select {
+    width: 16%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+
+
+#fm {
+    border-radius: 5px;
+    background-color: #f2f2f2;
+    padding: 20px;
+}
+#form .t2{
+    margin-left: 12px;
+}
+#form .t3{
+    margin-left: 35px;
+}
+#form .t4{
+    margin-left: 45px;
+}
+#form .t6{
+    margin-left: 20px;
+}
+#form .t7{
+    margin-left: 85px;
+}
+
+#form .t10{
+    margin-left: 35px;
+}
+#form .t11{
+    margin-left: 95px;
+}
+#form .t12{
+    margin-left: 30px;
+}
+#form .t13{
+    margin-left: 30px;
+}
+
+#form .t14{
+    margin-left: 50px;
+}
+#form .t16{
+    margin-left: 55px;
+}
+#form .t17{
+    margin-left: 43px;
+}
+#form .t18{
+    margin-left: 45px;
+}
+#form .t19{
+    margin-left: 45px;
+}
+#form .t20{
+    margin-left: 45px;
+}
+#form .t21{
+    margin-left: 45px;
+}
+#form .t22{
+    margin-left: 45px;
+}
+#form .t24{
+    margin-left: 45px;
+}
+#form .t25{
+    margin-left: 45px;
+}

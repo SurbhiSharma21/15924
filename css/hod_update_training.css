@@ -1,0 +1,51 @@
+#f1{
+    background-color: white;
+    
+    margin-left: 30px;
+    text-align: center;
+}
+input[type=text], textarea{
+    width: 20%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+#form .b1 {
+    width: 10%;
+    background-color: #4CAF50;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+#form .t3{
+    margin-left: 19px;
+    
+}
+
+#form .b1:hover {
+    background-color: #45a049;
+}
+#form .b2 {
+    width: 10%;
+    background-color: #4CAF50;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+#form .b2:hover {
+    background-color: #45a049;
+}
+
+

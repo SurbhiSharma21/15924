@@ -1,0 +1,156 @@
+body{
+background-color: white;
+height: 100%;
+
+
+}
+
+ 
+#wrapper{
+    
+    width: 99%;
+    height: 770px;
+    background-color: transparent;
+    margin-left: auto;
+    margin-right: auto;
+}
+#sdebar{
+    float: left;
+}
+#header{
+
+    padding: 10px;
+    background-color: #8080FF;
+    width: 90%;
+    height: 150px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    font-size: 25px;
+    color: white;
+    border-radius: 5px;
+}
+
+#menu{
+
+     background-color: #8080FF;
+    width: 91%;
+    height: 45px;
+   margin-left: auto;
+   margin-right: auto;
+    margin-top: 5px;
+    font-size: 20px;
+    text-align: center;
+    opacity: 0.6;
+    border-radius: 5px;
+    
+}
+#menu a{
+    text-decoration: none;
+    color: white;
+
+}
+#m1{
+    margin-bottom: 5px;
+   
+}
+
+
+
+#main{
+    padding: 5px;
+    margin-top: 10px;
+    background-color:#8080FF ;
+    width: 90%;
+    height: 450px;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+#sidebar{
+    background-color: white;
+    width: 24%;
+    height: 450px;
+    margin-left: 3px;
+    margin-right: ;
+    
+    float: left;
+    
+
+}
+
+#s1{
+    
+  background-color: white; 
+  width:47% ; 
+    height:450px ;
+    margin-left: 25%;
+    font-size: 12px;
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+font-weight: normal;
+text-align: left;
+color: #000000;
+}
+#content{
+     background-color: white;
+    width: 26%;
+    height: 450px;
+    margin-left: 3px;
+    margin-right: 3px;
+    margin-top:-450px;
+    float: right;
+    color: maroon;
+    
+}
+#fm{
+    
+    width: 98%;
+    
+}
+#form{
+
+    padding: 10px;
+    padding-top: 19px;
+    margin-left: 5px;
+    margin-right: 5px;
+    text-align: center;
+    margin-top: 10px;
+    height: 200px;
+    box-shadow: 5px 5px 5px 5px gray;
+}
+.t1{
+margin-top: 15px;
+    margin-left: 45px;
+    margin-right: 5px;
+    margin-bottom: 5px;
+}
+.t2{
+    margin-left: 3px;
+    margin-right: 5px;
+    margin-bottom: 5px;
+}
+.t3{
+    float:right ;
+    margin-right: 18px;
+}
+.bodylink {
+    margin-top: 20px;
+    margin-left: 10px;
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    color: #8a1c1c;
+    text-align: left;
+    font-weight: bold;
+}
+#footer{
+    background-color:  #8080FF;
+    width: 90%;
+    height: 40px;
+    margin-left: auto;
+    margin-right: auto;
+    color: white;
+    text-align: right;
+    padding: 5px;
+    
+    
+}
